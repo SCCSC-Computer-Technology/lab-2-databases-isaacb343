@@ -1,0 +1,8 @@
+Hello Isaac, Just reviewed your project. Your GUI is well designed and I like the structure of it. I did just want to point out
+that there is a lack of comments in your code. I would love to see more of that in the future. However, the code is structured
+well and easy to read. 
+
+The program runs smoothly but.... I know you tried to go with the approach of adint your own city / state / pop with your own code
+but I think that it would be better just to use the action bar as it is more practical. When clicking add on the action bar
+it sets the value of the new row to -1. It is because you are incrementing your primary key in your database link by -1.
+If you are going to continue adding rows the way you do I would just suggest you make the action bar work and the editing way you did. Otherwise, It looks great and you did well.

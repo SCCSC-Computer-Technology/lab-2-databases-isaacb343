@@ -1,0 +1,6 @@
+Hey Issac, your form looks really well made and very organized. As for your code, it is generally readable. However, I would say to add more commments throughout your code since the only comment was the 
+pregenerated comment by Visual Studio. One way our code differ was that you use a button and text boxes to add/delete/update your rows. I used the the builts in ones on the Data grid item. Also, when adding a row
+using the toolbar on top of the data grid, it indexes by -1 for your primary key. I understand that it wasn't a feature of your data grid, 
+but I think the way approach is to just delete that tool bar outright to not have confusion. Another way our code differed was that I wrote mine mainly with SQL in the database query builder. 
+
+Overall, it was really good. Most of these comments were more nickpicking some minor things. 

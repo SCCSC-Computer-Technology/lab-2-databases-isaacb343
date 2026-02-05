@@ -1,0 +1,19 @@
+Lab  2 Code Review
+Brieana Hunter
+
+First Impressions:
+I like how organized everything is in the GUI and how it creates categories for the corresponding buttons.
+I also like how you can add a new record at the top, as well as the section on the right with the textboxes and buttons.
+Overall, I think the application's layout is very user-friendly and easy to navigate. 
+
+Readability:
+The code is easy to read, and similar buttons are grouped together; i.e., all the sorting buttons are together, then the math buttons, and then the editing buttons at the end. The code order matches the button order on the screen, which I think makes it easy to read. There are no comments in the code, but I also forgot to include them because I feel like most functions explain themselves in this program.
+
+Software Errors:
+I did not notice any error in the code, but I did notice that there is no exit button for the program. 
+
+How Our Solutions Differed:
+Our programs were kind of similar in how we handled sorting buttons; however, the way you handled your math functions was different from mine, but I think the way you did it might be easier
+
+Constrictive Criticism:
+The only comment I could think of is adding an exit button to the program.

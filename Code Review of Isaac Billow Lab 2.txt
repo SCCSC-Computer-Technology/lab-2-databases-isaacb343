@@ -1,0 +1,10 @@
+Code Review of Isaac Billow Lab 2
+
+Nicholas Chapman-Miller
+
+
+	The code compiles clean with no warnings or errors. I think the code is clean and very efficient, although it could use with some documentation aka comments. I think a comment giving a simple explanation of the LINQ and lambda function for one of the buttons would suffice since they are similar enough functions for the reader to get the idea. I have not set up the save/delete/add buttons like that before so some documentation walking through that would help me trace the code easier.
+
+	The program gives a System.FormatException on line 102 when the user clicks the save button without entering anything into the textboxes. I think the exception is specifically caused by the population textbox not being able to parse since it is "". You already have an if statement with a return to check if the textboxes are null or negative on lines 117-133 in the add button method. So I would recommend just copy pasting that into the if statement in the save button method. The program also does not have an exit button or any shortcuts aka press S to save, A to add, etc.
+
+	Your solution differed from mine by using LINQ, lambda functions, and by creating your own save/add/delete buttons. I chose to use the default buttons in the table adapter, but I really like the GUI of your form including those buttons as they feel more user friendly. My solution was a few buttons that gave Messageboxes and a few buttons that updated the table with queries. I like how my solution is only a line of code for most of the buttons, but I like the way your form looks and functions more than mine, especially with the math buttons. I think the group boxes also make the GUI look very organized. I really liked the look of the form as well as the use of Datarowview objects, Great job!
